@@ -13,6 +13,12 @@
         "description": "MPA Pelindo adalah web-aplikasi resmi Pelindo Solusi Logistik yang dirancang untuk manajemen pemeliharaan aset di pelabuhan. Aplikasi ini memungkinkan perusahaan untuk mengelola inventarisasi aset, perencanaan pemeliharaan, serta pelaporan kondisi aset secara terintegrasi, sehingga memastikan aset perusahaan selalu dalam kondisi yang optimal. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
     },
     {
+        "image": "dist/img/portfolio/logbase-pelindo.jpeg",
+        "title": "Logbase Pelindo",
+        "link": "https://logbase.co.id/",
+        "description": "Logbase merupakan marketplace yang dikembangkan oleh PT Pelindo Solusi Logistik yang menyediakan fasilitas logistik, infrastruktur, peralatan serta kendaraan berat dan beberapa fasilitas lainnya. Logbase selalu berkomitmen untuk memberikan pelayanan terbaik, aman dan terpercaya demi perkembangan bisnis anda. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
         "image": "dist/img/portfolio/pro-xhome.jpeg",
         "title": "Pro-Xhome",
         "link": "https://pro-xhome.com/",
