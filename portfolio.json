@@ -1,26 +1,32 @@
 {
   "projects": [
     {
-      "image": "dist/img/portfolio/sipenla-superapps.jpg",
-      "title": "Sipenla SuperApps",
-      "link": "https://sipenla.azurewebsites.net/",
-      "description": "Project ini merupakan project yang saya bangun bersama teman saya, yaitu tentang monitoring seluruh kegiatan sekolah dari absensi guru, siswa, pegawai sekolah dan lain sebagainya. Project ini memiliki banyak fitur didalamnya. Disini pengembangan website menggunaan framework laravel dan untuk mobile menggunakan flutter."
+        "image": "dist/img/portfolio/overmeal.jpeg",
+        "title": "Over Meal SG",
+        "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
     },
     {
-      "image": "dist/img/portfolio/sicomen.jpeg",
-      "title": "SiComen",
-      "description": "SICOMEN adalah Sistem Informasi Coaching dan Monitoring yang dirancang untuk mempermudah proses pembinaan dan supervisi dalam suatu organisasi. Aplikasi ini memungkinkan pencatatan, pemantauan, serta evaluasi sesi coaching secara efisien, sehingga membantu dalam pengelolaan kinerja dan pencapaian target."
+        "image": "dist/img/portfolio/superstar.jpeg",
+        "title": "Superstar",
+        "link": "https://sipenla.azurewebsites.net/",
+        "description": "Superstar adalah aplikasi penilaian karyawan yang dirancang untuk membantu perusahaan dalam mengevaluasi kinerja, keterampilan, dan kompetensi karyawan secara sistematis dan objektif. Aplikasi ini memberikan analisis mendalam mengenai pencapaian individu maupun tim, sehingga dapat digunakan sebagai dasar dalam pengambilan keputusan terkait pengembangan karyawan, promosi, maupun pelatihan lebih lanjut."
     },
     {
-      "image": "dist/img/portfolio/superstar.jpeg",
-      "title": "Superstar",
-      "link": "https://sipenla.azurewebsites.net/",
-      "description": "Superstar adalah aplikasi penilaian karyawan yang dirancang untuk membantu perusahaan dalam mengevaluasi kinerja, keterampilan, dan kompetensi karyawan secara sistematis dan objektif. Aplikasi ini memberikan analisis mendalam mengenai pencapaian individu maupun tim, sehingga dapat digunakan sebagai dasar dalam pengambilan keputusan terkait pengembangan karyawan, promosi, maupun pelatihan lebih lanjut."
+        "image": "dist/img/portfolio/sicomen.jpeg",
+        "title": "SiComen",
+        "description": "SICOMEN adalah Sistem Informasi Coaching dan Monitoring yang dirancang untuk mempermudah proses pembinaan dan supervisi dalam suatu organisasi. Aplikasi ini memungkinkan pencatatan, pemantauan, serta evaluasi sesi coaching secara efisien, sehingga membantu dalam pengelolaan kinerja dan pencapaian target."
     },
     {
-      "image": "dist/img/portfolio/overmeal.jpeg",
-      "title": "Over Meal SG",
-      "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
+        "image": "dist/img/portfolio/sipenla-superapps.jpg",
+        "title": "Sipenla SuperApps",
+        "link": "https://sipenla.azurewebsites.net/",
+        "description": "Project ini merupakan project yang saya bangun bersama teman saya, yaitu tentang monitoring seluruh kegiatan sekolah dari absensi guru, siswa, pegawai sekolah dan lain sebagainya. Project ini memiliki banyak fitur didalamnya. Disini pengembangan website menggunaan framework laravel dan untuk mobile menggunakan flutter."
+    },
+    {
+        "image": "dist/img/portfolio/bem-u-unesa-2022.jpeg",
+        "title": "BEM UNESA 2022",
+        "link": "https://bem.unesa.ac.id/",
+        "description": "BEM UNESA 2022 adalah website resmi Badan Eksekutif Mahasiswa Universitas Negeri Surabaya periode 2022 kabinet ruang karya, project ini saya buat bersama team menggunakan Laravel dan backend MySQL."
     },
     {
         "image": "dist/img/portfolio/mu-on.png",
