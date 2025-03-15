@@ -53,3 +53,36 @@ if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.match
 } else {
     darkToggle.checked = false;
 }
+
+// Portfolio Dynamic Loading
+async function loadPortfolio() {
+    try {
+        const response = await fetch('/portfolio.json');
+        const data = await response.json();
+        const portfolioContainer = document.getElementById('portfolio-container');
+
+        data.projects.forEach(project => {
+            const projectElement = document.createElement('div');
+            projectElement.className = 'mb-12 p-4 md:w-1/2';
+
+            const content = `
+                <div class="rounded-md shadow-md overflow-hidden">
+                    <img src="${project.image}" alt="${project.title}" width="w-full">
+                </div>
+                ${project.link 
+                    ? `<a href="${project.link}" target="_blank"><h3 class="font-semibold text-xl text-dark mt-5 mb-3 dark:text-white">${project.title}</h3></a>`
+                    : `<h3 class="font-semibold text-xl text-dark mt-5 mb-3 dark:text-white">${project.title}</h3>`
+                }
+                <p class="font-medium text-base text-secondary">${project.description}</p>
+            `;
+
+            projectElement.innerHTML = content;
+            portfolioContainer.appendChild(projectElement);
+        });
+    } catch (error) {
+        console.error('Error loading portfolio:', error);
+    }
+}
+
+// Load portfolio when DOM is ready
+document.addEventListener('DOMContentLoaded', loadPortfolio);

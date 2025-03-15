@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "image": "dist/img/portfolio/1.jpg",
+      "title": "Antree Website",
+      "link": "http://antree-website.herokuapp.com/",
+      "description": "Antree Website merupakan website yang berfungsi untuk mengambil antrian secara online, tidak hanya mengambil antrian dengan scan barcode, tetapi juga ada ruang tunggu online yang nantinya akan diapnggil antrian dengan admin dari salah satu mercant yang terdaftar. disini pengembangan website menggunakan framework laravel dan mobile menggunakan flutter."
+    },
+    {
+      "image": "dist/img/portfolio/2.jpg",
+      "title": "Proxsis Workspace Superapps",
+      "link": "http://dev-workspace.technolabs.my.id/",
+      "description": "Proxsis Workspace adalah project saya ketika magang pada program kampus merdeka di perusahaan PT. Proxsis Solusi Bisnis. superapps ini bertujuan mendigitalisasikan proses HR Manajemen guna mempermudah pekerjaan HR yang ada didalam perusahaan tersebut. disini pengembangan menggunakan framework laravel dan mobile menggunakan flutter."
+    },
+    {
+      "image": "dist/img/portfolio/3.jpg",
+      "title": "E-Magang Website",
+      "link": "https://emagang-website.herokuapp.com/",
+      "description": "E-Magang adalah project pertama saya dengan menggunakan framework laravel, yang website ini berfungsi untuk memonitoring kegiatan magang lalu mencari perusahaan yang tersedia lowongan magang serta memberikan penilaian dan pengumpulan laporan magang."
+    },
+    {
+      "image": "dist/img/portfolio/4.jpg",
+      "title": "System Login Website",
+      "description": "Project ini merupakan project iseng yang dimana didalamnya saya mencoba banyak sistem keamanan, disini pengembangan menggunakan PHP native."
+    },
+    {
+      "image": "dist/img/portfolio/5.jpg",
+      "title": "Monitoring Website",
+      "description": "Project ini merupakan project pembelajaran yang dimana didalam nya saya membuat admin yang dapat memonitoring semua yang dilakukan oleh user, dari login sampai logout. disini pengembangan website menggunakan framework laravel."
+    },
+    {
+      "image": "dist/img/portfolio/6.jpg",
+      "title": "Sipenla SuperApps",
+      "link": "https://sipenla.azurewebsites.net/",
+      "description": "Project ini merupakan project yang saya bangun bersama teman saya, yaitu tentang monitoring seluruh kegiatan sekolah dari absensi guru, siswa, pegawai sekolah dan lain sebagainya. Project ini memiliki banyak fitur didalamnya. Disini pengembangan website menggunaan framework laravel dan untuk mobile menggunakan flutter."
+    },
+    {
+      "image": "dist/img/portfolio/sicomen.jpeg",
+      "title": "SiComen",
+      "description": "SICOMEN adalah Sistem Informasi Coaching dan Monitoring yang dirancang untuk mempermudah proses pembinaan dan supervisi dalam suatu organisasi. Aplikasi ini memungkinkan pencatatan, pemantauan, serta evaluasi sesi coaching secara efisien, sehingga membantu dalam pengelolaan kinerja dan pencapaian target."
+    },
+    {
+      "image": "dist/img/portfolio/superstar.jpeg",
+      "title": "Superstar",
+      "link": "https://sipenla.azurewebsites.net/",
+      "description": "Superstar adalah aplikasi penilaian karyawan yang dirancang untuk membantu perusahaan dalam mengevaluasi kinerja, keterampilan, dan kompetensi karyawan secara sistematis dan objektif. Aplikasi ini memberikan analisis mendalam mengenai pencapaian individu maupun tim, sehingga dapat digunakan sebagai dasar dalam pengambilan keputusan terkait pengembangan karyawan, promosi, maupun pelatihan lebih lanjut."
+    },
+    {
+      "image": "dist/img/portfolio/overmeal.jpeg",
+      "title": "Over Meal SG",
+      "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
+    }
+  ]
+}
