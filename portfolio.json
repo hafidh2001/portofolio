@@ -61,6 +61,12 @@
         "description": "Avian Web adalah web-aplikasi resmi Avian Brands, sebuah perusahaan yang bergerak di bidang produksi dan distribusi produk-produk cat. Web-aplikasi ini dirancang untuk memberikan informasi mengenai produk-produk yang dijual, serta memudahkan konsumen dalam melakukan pembelian secara online, selain web-aplikasi aplikasi ini juga tersedia dalam versi mobile Android maupun IOS. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
+        "image": "dist/img/portfolio/pmms-pg.png",
+        "title": "PMMS PG",
+        "link": "https://pmms.petrokimia-gresik.com/",
+        "description": "PMMS PG adalah web-aplikasi resmi Petrokimia Gresik sampai 2023 yang dirancang untuk manajemen pemeliharaan aset. Aplikasi ini memungkinkan perusahaan untuk mengelola inventarisasi aset, perencanaan pemeliharaan, serta pelaporan kondisi aset secara terintegrasi, sehingga memastikan aset perusahaan selalu dalam kondisi yang optimal. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
+    },
+    {
         "image": "dist/img/portfolio/overmeal.jpeg",
         "title": "Over Meal SG",
         "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
