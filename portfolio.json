@@ -49,6 +49,24 @@
       "image": "dist/img/portfolio/overmeal.jpeg",
       "title": "Over Meal SG",
       "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
+    },
+    {
+      "image": "dist/img/portfolio/e-mon.png",
+      "title": "E-MON",
+      "link": "https://drive.google.com/drive/folders/1S-e79f--r0tYDX8-A1Ao2B8KaYbsoyFU?usp=sharing",
+      "description": "E-Mon atau E-Monitoring Produk adalah web-aplikasi untuk monitoring produk mahasiswa D4 Manajemen Informatika (jurusan saya), dimana penguji / dosen dapat memberikan penilaian, kritik dan saran kepada produk yang di upload mahasiswa. Aplikasi ini dibuat menggunakan Laravel & serta tekoneksi dengan database"
+    },
+    {
+      "image": "dist/img/portfolio/fil.mi.jpeg",
+      "title": "FIL.MI",
+      "link": "https://drive.google.com/drive/folders/1pcnWAi_XeEEtj0u4ZHnl-A1Cza9D3YBR?usp=sharing",
+      "description": "Fil.mi adalah web-aplikasi streaming film secara online yang dapat dinikmati dimana saja yang dibuat menggunakan PHP Native, serta aplikasi terkoneksi dengan database MySQL"
+    },
+    {
+      "image": "dist/img/portfolio/e-loker.jpeg",
+      "title": "E-Loker",
+      "link": "http://e-loker.herokuapp.com/",
+      "description": "E-Loker adalah web-aplikasi pencarian lowongan kerja online yang dibuat menggunakan HTML, CSS, dan JavaScript. Aplikasi ini hanya berupa antarmuka UI tanpa backend, karena merupakan proyek pertama saya."
     }
   ]
 }

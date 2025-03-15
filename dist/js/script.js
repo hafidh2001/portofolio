@@ -66,14 +66,11 @@ async function loadPortfolio() {
             projectElement.className = 'mb-12 p-4 md:w-1/2';
 
             const content = `
-                <div class="rounded-md shadow-md overflow-hidden">
+                <div class="rounded-md shadow-md overflow-hidden cursor-pointer" ${project.link ? `onClick="window.open('${project.link}', '_blank')"` : ''}>
                     <img src="${project.image}" alt="${project.title}" width="w-full">
                 </div>
-                ${project.link 
-                    ? `<a href="${project.link}" target="_blank"><h3 class="font-semibold text-xl text-dark mt-5 mb-3 dark:text-white">${project.title}</h3></a>`
-                    : `<h3 class="font-semibold text-xl text-dark mt-5 mb-3 dark:text-white">${project.title}</h3>`
-                }
-                <p class="font-medium text-base text-secondary">${project.description}</p>
+                <h3 ${project.link ? `onClick="window.open('${project.link}', '_blank')"` : ''} class="font-semibold text-xl text-dark mt-5 mb-3 dark:text-white cursor-pointer">${project.title}</h3>
+                <p ${project.link ? `onClick="window.open('${project.link}', '_blank')"` : ''} class="font-medium text-base text-secondary cursor-pointer">${project.description}</p>
             `;
 
             projectElement.innerHTML = content;
