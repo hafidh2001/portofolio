@@ -1,34 +1,6 @@
 {
   "projects": [
     {
-      "image": "dist/img/portfolio/1.jpg",
-      "title": "Antree Website",
-      "link": "http://antree-website.herokuapp.com/",
-      "description": "Antree Website merupakan website yang berfungsi untuk mengambil antrian secara online, tidak hanya mengambil antrian dengan scan barcode, tetapi juga ada ruang tunggu online yang nantinya akan diapnggil antrian dengan admin dari salah satu mercant yang terdaftar. disini pengembangan website menggunakan framework laravel dan mobile menggunakan flutter."
-    },
-    {
-      "image": "dist/img/portfolio/2.jpg",
-      "title": "Proxsis Workspace Superapps",
-      "link": "http://dev-workspace.technolabs.my.id/",
-      "description": "Proxsis Workspace adalah project saya ketika magang pada program kampus merdeka di perusahaan PT. Proxsis Solusi Bisnis. superapps ini bertujuan mendigitalisasikan proses HR Manajemen guna mempermudah pekerjaan HR yang ada didalam perusahaan tersebut. disini pengembangan menggunakan framework laravel dan mobile menggunakan flutter."
-    },
-    {
-      "image": "dist/img/portfolio/3.jpg",
-      "title": "E-Magang Website",
-      "link": "https://emagang-website.herokuapp.com/",
-      "description": "E-Magang adalah project pertama saya dengan menggunakan framework laravel, yang website ini berfungsi untuk memonitoring kegiatan magang lalu mencari perusahaan yang tersedia lowongan magang serta memberikan penilaian dan pengumpulan laporan magang."
-    },
-    {
-      "image": "dist/img/portfolio/4.jpg",
-      "title": "System Login Website",
-      "description": "Project ini merupakan project iseng yang dimana didalamnya saya mencoba banyak sistem keamanan, disini pengembangan menggunakan PHP native."
-    },
-    {
-      "image": "dist/img/portfolio/5.jpg",
-      "title": "Monitoring Website",
-      "description": "Project ini merupakan project pembelajaran yang dimana didalam nya saya membuat admin yang dapat memonitoring semua yang dilakukan oleh user, dari login sampai logout. disini pengembangan website menggunakan framework laravel."
-    },
-    {
       "image": "dist/img/portfolio/6.jpg",
       "title": "Sipenla SuperApps",
       "link": "https://sipenla.azurewebsites.net/",
@@ -51,10 +23,10 @@
       "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
     },
     {
-        "image": "dist/img/portfolio/pamerIn.png",
-        "title": "PamerIn",
-        "link": "https://drive.google.com/drive/folders/1XDK3T0I16wW6CRvM8bR89znNNbw6UU4U?usp=sharing",
-        "description": "PamerIn adalah web-aplikasi pameran online yang menyajikan fitur utama berupa menjelajahi pameran berbasis AR (Augmented Reality), pengunjung dapat menjelajahi pameran dengan smartphone mereka, tanpa harus datang ke lokasi, pengunjung juga dapat membeli karya seni yang dipamerkan. Aplikasi ini dibuat menggunakan Laravel & terkoneksi dengan database MySQL."
+        "image": "dist/img/portfolio/mu-on.png",
+        "title": "Mu-On",
+        "link": "https://drive.google.com/drive/folders/1GSleNnumbTdgGkaJHUx350on9dzRHUTO?usp=sharing",
+        "description": "Mu-On adalah platform musik online berbasis mobile yang berfungsi untuk mendengarkan musik dimanapun dan kapanpun. Aplikasi ini dibuat menggunakan Flutter dan terkoneksi dengan database Firebase."
     },
     {
         "image": "dist/img/portfolio/bullet-bamboo.png",
