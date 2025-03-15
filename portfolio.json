@@ -51,10 +51,16 @@
       "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
     },
     {
+        "image": "dist/img/portfolio/pamerIn.png",
+        "title": "PamerIn",
+        "link": "https://drive.google.com/drive/folders/1XDK3T0I16wW6CRvM8bR89znNNbw6UU4U?usp=sharing",
+        "description": "PamerIn adalah web-aplikasi pameran online yang menyajikan fitur utama berupa menjelajahi pameran berbasis AR (Augmented Reality), pengunjung dapat menjelajahi pameran dengan smartphone mereka, tanpa harus datang ke lokasi, pengunjung juga dapat membeli karya seni yang dipamerkan. Aplikasi ini dibuat menggunakan Laravel & terkoneksi dengan database MySQL."
+    },
+    {
         "image": "dist/img/portfolio/bullet-bamboo.png",
         "title": "Bullet Bamboo",
         "link": "https://drive.google.com/drive/folders/1HnVw9N8SmVsFXRdPkZeAxfkiTUiNjslV?usp=sharing",
-        "description": "Bullet Bamboo adalah game 2D yang dibuat menggunakan C# dengan teknologi Unity3D, dimana pemain harus mengalahkan pasukan penjajah dan mengumpulkan koin sebanyak-banyaknya. Game ini memiliki 3 level, yaitu level easy, medium, dan hard."
+        "description": "Bullet Bamboo adalah game 2D simpel yang dibuat menggunakan C# dengan teknologi Unity3D, dimana pemain harus mengalahkan pasukan penjajah dan mengumpulkan koin sebanyak-banyaknya. Game ini memiliki 3 level, yaitu level easy, medium, dan hard."
     },
     {
         "image": "dist/img/portfolio/informatic-engineering-unesa.png",
@@ -66,13 +72,13 @@
       "image": "dist/img/portfolio/e-mon.png",
       "title": "E-MON",
       "link": "https://drive.google.com/drive/folders/1S-e79f--r0tYDX8-A1Ao2B8KaYbsoyFU?usp=sharing",
-      "description": "E-Mon atau E-Monitoring Produk adalah web-aplikasi untuk monitoring produk mahasiswa D4 Manajemen Informatika (jurusan saya), dimana penguji / dosen dapat memberikan penilaian, kritik dan saran kepada produk yang di upload mahasiswa. Aplikasi ini dibuat menggunakan Laravel & serta tekoneksi dengan database MySQL"
+      "description": "E-Mon atau E-Monitoring Produk adalah web-aplikasi untuk monitoring produk mahasiswa D4 Manajemen Informatika (jurusan saya), dimana penguji / dosen dapat memberikan penilaian, kritik dan saran kepada produk yang di upload mahasiswa. Aplikasi ini dibuat menggunakan Laravel & terkoneksi dengan database MySQL."
     },
     {
       "image": "dist/img/portfolio/fil.mi.jpeg",
       "title": "FIL.MI",
       "link": "https://drive.google.com/drive/folders/1pcnWAi_XeEEtj0u4ZHnl-A1Cza9D3YBR?usp=sharing",
-      "description": "Fil.mi adalah web-aplikasi streaming film secara online yang dapat dinikmati dimana saja yang dibuat menggunakan PHP Native, serta aplikasi terkoneksi dengan database MySQL"
+      "description": "Fil.mi adalah web-aplikasi streaming film secara online yang dapat dinikmati dimana saja yang dibuat menggunakan PHP Native, dan terkoneksi dengan database MySQL."
     },
     {
       "image": "dist/img/portfolio/e-loker.jpeg",
