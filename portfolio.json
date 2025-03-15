@@ -1,34 +1,46 @@
 {
   "projects": [
     {
+        "image": "dist/img/portfolio/pro-xhome.jpeg",
+        "title": "Pro-Xhome",
+        "link": "https://pro-xhome.com/",
+        "description": "Pro-xhome adalah web-aplikasi resmi solusi menyeluruh untuk keperluan waterproofing di berbagai macam tipe konstruksi dengan dukungan 2 teknologi brand hebat yang berpengalaman di kelasnya. Aplikasi ini dibuat menggunakan WordPress dan terkoneksi dengan database MySQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
+    },
+    {
+        "image": "dist/img/portfolio/pipapower.jpeg",
+        "title": "Pipapower",
+        "link": "https://pipapower.com/",
+        "description": "Pipapower adalah web-aplikasi resmi PT Avia Avian Industri Pipa sebagai produsen pipa dan fitting uPVC (Unplasticized Poly Vinyl Chloride) diproduksi dengan mesin berteknologi modern dengan menggunakan bahan baku yang berkualitas tinggi untuk menghasilkan produk unggulan yang presisi dan bebas timbal (Lead Free). (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
+    },
+    {
         "image": "dist/img/portfolio/csr-tracking.jpeg",
         "title": "CSR Tracking",
         "link": "https://csr-tracking.avianbrands.com/",
-        "description": "CSR Tracking adalah web-aplikasi resmi manajemen program Corporate Social Responsibility (CSR) Avian Brands yang dirancang untuk mempermudah perusahaan dalam melakukan perencanaan, pelaksanaan, dan evaluasi program CSR. Aplikasi ini memungkinkan perusahaan untuk mengelola program CSR secara terintegrasi, mulai dari perencanaan, pengajuan proposal, hingga pelaporan hasil program. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+        "description": "CSR Tracking adalah web-aplikasi resmi manajemen program Corporate Social Responsibility (CSR) Avian Brands yang dirancang untuk mempermudah perusahaan dalam melakukan perencanaan, pelaksanaan, dan evaluasi program CSR. Aplikasi ini memungkinkan perusahaan untuk mengelola program CSR secara terintegrasi, mulai dari perencanaan, pengajuan proposal, hingga pelaporan hasil program. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
         "image": "dist/img/portfolio/csr-metabase.jpeg",
         "title": "CSR Metabase",
         "link": "https://csr-mb.avianbrands.com/",
-        "description": "CSR Metabase adalah web-aplikasi dashboard yang dirancang untuk mengolah data program Corporate Social Responsibility (CSR) Avian Brands. Aplikasi ini memungkinkan perusahaan untuk melihat data program CSR secara real-time, mulai dari jumlah program yang telah dilaksanakan, jumlah dana yang telah dikeluarkan, hingga dampak yang telah dihasilkan. Aplikasi ini berfungsi sebagai embedded image yang diambil dari PostgreSQL."
+        "description": "CSR Metabase adalah web-aplikasi dashboard yang dirancang untuk mengolah data program Corporate Social Responsibility (CSR) Avian Brands. Aplikasi ini memungkinkan perusahaan untuk melihat data program CSR secara real-time, mulai dari jumlah program yang telah dilaksanakan, jumlah dana yang telah dikeluarkan, hingga dampak yang telah dihasilkan. Aplikasi ini berfungsi sebagai embedded image yang diambil dari PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
         "image": "dist/img/portfolio/avian-directus.jpeg",
         "title": "Avian Directus",
         "link": "https://directus.avianbrands.com",
-        "description": "Avian Directus adalah web-aplikasi resmi Avian Brands yang berfungsi untuk memanajemen keseluruhan sistem pada perusahaan dimana akses yang diberikan hanya untuk direksi-direksi saja. Web-aplikasi ini dirancang untuk memudahkan direksi dalam melihat laporan-laporan yang dihasilkan oleh perusahaan. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Aplikasi ini sudah existing sebelum saya bergabung, saya hanya melakukan maintenance dan penambahan fitur)"
+        "description": "Avian Directus adalah web-aplikasi resmi Avian Brands yang berfungsi untuk memanajemen keseluruhan sistem pada perusahaan dimana akses yang diberikan hanya untuk direksi-direksi saja. Web-aplikasi ini dirancang untuk memudahkan direksi dalam melihat laporan-laporan yang dihasilkan oleh perusahaan. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
         "image": "dist/img/portfolio/avian-karir.jpeg",
         "title": "Avian Karir",
         "link": "https://karir.avianbrands.com/",
-        "description": "Avian Karir adalah web-aplikasi resmi Avian Brands yang berfungsi untuk menampilkan lowongan pekerjaan yang tersedia di perusahaan. Web-aplikasi ini dirancang untuk memudahkan pencari kerja dalam mencari informasi mengenai lowongan pekerjaan yang sesuai dengan minat dan kualifikasi mereka. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Aplikasi ini sudah existing sebelum saya bergabung, saya hanya melakukan maintenance dan penambahan fitur)"
+        "description": "Avian Karir adalah web-aplikasi resmi Avian Brands yang berfungsi untuk menampilkan lowongan pekerjaan yang tersedia di perusahaan. Web-aplikasi ini dirancang untuk memudahkan pencari kerja dalam mencari informasi mengenai lowongan pekerjaan yang sesuai dengan minat dan kualifikasi mereka. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
         "image": "dist/img/portfolio/avian-web.jpeg",
         "title": "Avian Web",
         "link": "https://avianbrands.com/",
-        "description": "Avian Web adalah web-aplikasi resmi Avian Brands, sebuah perusahaan yang bergerak di bidang produksi dan distribusi produk-produk cat. Web-aplikasi ini dirancang untuk memberikan informasi mengenai produk-produk yang dijual, serta memudahkan konsumen dalam melakukan pembelian secara online, selain web-aplikasi aplikasi ini juga tersedia dalam versi mobile Android maupun IOS. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Aplikasi ini sudah existing sebelum saya bergabung, saya hanya melakukan maintenance dan penambahan fitur)"
+        "description": "Avian Web adalah web-aplikasi resmi Avian Brands, sebuah perusahaan yang bergerak di bidang produksi dan distribusi produk-produk cat. Web-aplikasi ini dirancang untuk memberikan informasi mengenai produk-produk yang dijual, serta memudahkan konsumen dalam melakukan pembelian secara online, selain web-aplikasi aplikasi ini juga tersedia dalam versi mobile Android maupun IOS. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
         "image": "dist/img/portfolio/overmeal.jpeg",
