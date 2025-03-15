@@ -57,7 +57,7 @@ if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.match
 // Portfolio Dynamic Loading
 async function loadPortfolio() {
     try {
-        const response = await fetch('dist/portfolio.json');
+        const response = await fetch('portfolio.json');
         const data = await response.json();
         const portfolioContainer = document.getElementById('portfolio-container');
 
