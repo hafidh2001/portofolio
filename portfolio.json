@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+        "image": "dist/img/portfolio/logify-klinik.jpeg",
+        "title": "Logify Klinik",
+        "link": "https://drive.google.com/drive/folders/1RbWdAxN_0g820zHPRPsECjNdSf1e1QOT?usp=sharing",
+        "description": "Logify Klinik adalah web-aplikasi resmi solusi manajemen klinik yang dirancang untuk mempermudah proses administrasi, pendaftaran, dan pengelolaan pasien di klinik. Aplikasi ini memungkinkan klinik untuk mengelola jadwal dokter, pendaftaran pasien, serta pencatatan riwayat medis secara terintegrasi, sehingga memastikan proses pelayanan kesehatan menjadi lebih efisien dan terstruktur. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
+    },
+    {
+        "image": "dist/img/portfolio/mpa-pelindo.jpeg",
+        "title": "MPA Pelindo",
+        "link": "https://mpa.pelindosolusilogistik.co.id/",
+        "description": "MPA Pelindo adalah web-aplikasi resmi Pelindo Solusi Logistik yang dirancang untuk manajemen pemeliharaan aset di pelabuhan. Aplikasi ini memungkinkan perusahaan untuk mengelola inventarisasi aset, perencanaan pemeliharaan, serta pelaporan kondisi aset secara terintegrasi, sehingga memastikan aset perusahaan selalu dalam kondisi yang optimal. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
         "image": "dist/img/portfolio/pro-xhome.jpeg",
         "title": "Pro-Xhome",
         "link": "https://pro-xhome.com/",
