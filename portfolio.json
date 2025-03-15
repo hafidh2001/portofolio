@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+        "image": "dist/img/portfolio/avian-directus.jpeg",
+        "title": "Avian Directus",
+        "link": "https://directus.avianbrands.com",
+        "description": "Avian Directus adalah website resmi Avian Brands yang berfungsi untuk memanajemen keseluruhan sistem pada perusahaan dimana akses yang diberikan hanya untuk direksi-direksi saja. Website ini dirancang untuk memudahkan direksi dalam melihat laporan-laporan yang dihasilkan oleh perusahaan. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Aplikasi ini sudah existing sebelum saya bergabung, saya hanya melakukan maintenance dan penambahan fitur)"
+    },
+    {
+        "image": "dist/img/portfolio/avian-karir.jpeg",
+        "title": "Avian Karir",
+        "link": "https://karir.avianbrands.com/",
+        "description": "Avian Karir adalah website resmi Avian Brands yang berfungsi untuk menampilkan lowongan pekerjaan yang tersedia di perusahaan. Website ini dirancang untuk memudahkan pencari kerja dalam mencari informasi mengenai lowongan pekerjaan yang sesuai dengan minat dan kualifikasi mereka. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Aplikasi ini sudah existing sebelum saya bergabung, saya hanya melakukan maintenance dan penambahan fitur)"
+    },
+    {
+        "image": "dist/img/portfolio/avian-web.jpeg",
+        "title": "Avian Web",
+        "link": "https://avianbrands.com/",
+        "description": "Avian Web adalah website resmi Avian Brands, sebuah perusahaan yang bergerak di bidang produksi dan distribusi produk-produk cat. Website ini dirancang untuk memberikan informasi mengenai produk-produk yang dijual, serta memudahkan konsumen dalam melakukan pembelian secara online, selain website aplikasi ini juga tersedia dalam versi mobile Android maupun IOS. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Aplikasi ini sudah existing sebelum saya bergabung, saya hanya melakukan maintenance dan penambahan fitur)"
+    },
+    {
         "image": "dist/img/portfolio/overmeal.jpeg",
         "title": "Over Meal SG",
         "description": "Over Meal SG adalah aplikasi manajemen lembur yang dirancang untuk mempermudah pengajuan dan persetujuan lembur bagi karyawan. Uniknya, setiap pengajuan lembur yang disetujui akan memberikan jatah uang makan lembur, yang nantinya dapat digunakan di kantin kantor. Aplikasi ini memastikan proses pengajuan lembur menjadi lebih transparan, efisien, dan terintegrasi dengan sistem HR."
