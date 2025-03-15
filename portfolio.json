@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "image": "dist/img/portfolio/6.jpg",
+      "image": "dist/img/portfolio/sipenla-superapps.jpg",
       "title": "Sipenla SuperApps",
       "link": "https://sipenla.azurewebsites.net/",
       "description": "Project ini merupakan project yang saya bangun bersama teman saya, yaitu tentang monitoring seluruh kegiatan sekolah dari absensi guru, siswa, pegawai sekolah dan lain sebagainya. Project ini memiliki banyak fitur didalamnya. Disini pengembangan website menggunaan framework laravel dan untuk mobile menggunakan flutter."
