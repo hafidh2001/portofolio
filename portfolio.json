@@ -7,6 +7,18 @@
         "description": "Logify Klinik adalah web-aplikasi resmi solusi manajemen klinik yang dirancang untuk mempermudah proses administrasi, pendaftaran, dan pengelolaan pasien di klinik. Aplikasi ini memungkinkan klinik untuk mengelola jadwal dokter, pendaftaran pasien, serta pencatatan riwayat medis secara terintegrasi, sehingga memastikan proses pelayanan kesehatan menjadi lebih efisien dan terstruktur. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
+        "image": "dist/img/portfolio/web-drowsiness-detection.jpeg",
+        "title": "Implementation Drowsiness Detection",
+        "link": "https://www.youtube.com/watch?v=rALUWjZ6j8I",
+        "description": "Project ini adalah pengembangan dari tugas akhir saya yang berfungsi untuk mendeteksi tingkat kantuk pada pengemudi dan diterapkan pada web-aplikasi, dimana apabila pengemudi terdeteksi sedang mengantuk maka akan muncul notifikasi untuk memberitahukan pengemudi agar berhenti sejenak dan suara alarm. Aplikasi ini dibuat menggunakan React.JS"
+    },
+    {
+        "image": "dist/img/portfolio/drowsiness-detection.jpeg",
+        "title": "Drowsiness Detection",
+        "link": "https://www.youtube.com/watch?v=PKPSfA-mgjc",
+        "description": "Drowsiness Detection adalah project tugas akhir saya yang berfungsi untuk mendeteksi tingkat kantuk pada pengemudi. Aplikasi ini dibuat menggunakan Python dengan library OpenCV dan YOLOv4."
+    },
+    {
         "image": "dist/img/portfolio/mpa-pelindo.jpeg",
         "title": "MPA Pelindo",
         "link": "https://mpa.pelindosolusilogistik.co.id/",
