@@ -1,6 +1,11 @@
 {
   "projects": [
     {
+        "image": "dist/img/portfolio/termius.jpeg",
+        "title": "Server",
+        "description": "Selain developer, saya juga berpengalaman dalam mengelola server sebagai devops engineer, baik server lokal maupun server cloud. Berikut beberapa server yang saya maintenance"
+    },
+    {
         "image": "dist/img/portfolio/kpp-hauling-road.jpeg",
         "title": "KPP Hauling Road",
         "link": "https://kpp-dev.datacakra.com/",
