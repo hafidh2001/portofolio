@@ -3,16 +3,16 @@
     {
         "image": "dist/img/portfolio/termius.jpeg",
         "title": "Server",
-        "description": "Selain developer, saya juga berpengalaman dalam mengelola server sebagai devops engineer, baik server lokal maupun server cloud. Berikut beberapa server yang saya maintenance"
+        "description": "Selain developer, saya juga berpengalaman dalam mengelola server sebagai devops engineer, baik server lokal maupun server cloud, serta tools devops lainnya. Berikut adalah beberapa server yang saya maintenance"
     },
     {
-        "image": "dist/img/portfolio/kpp-hauling-road.jpeg",
+        "image": "dist/img/portfolio/kpp-hauling-road.webp",
         "title": "KPP Hauling Road",
         "link": "https://kpp-dev.datacakra.com/",
         "description": "KPP Hauling Road adalah web-aplikasi PT. Kalimatan Prima Persada yang berfungsi menghitung agregat lepas, drainase buruk, lendutan permukaan, lubang permukaan, permukaan bergelombang, potongan melintang, pencemaran debu berdasarkan nilai deteksi URCI yang dipasang pada kendaraan. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
     },
     {
-        "image": "dist/img/portfolio/sisfopimpinan.jpeg",
+        "image": "dist/img/portfolio/sisfopimpinan.webp",
         "title": "SISFO PIMPINAN",
         "link": "https://sisfopimpinan.datacakra.com/",
         "description": "Dashboard Pimpinan Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
@@ -24,7 +24,7 @@
         "description": "Sistem Informasi Tata Usaha Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
     },
     {
-        "image": "dist/img/portfolio/sisfoopsal.jpeg",
+        "image": "dist/img/portfolio/sisfoopsal.webp",
         "title": "SISFOOPSAL",
         "link": "https://sisfoopsal.datacakra.com/",
         "description": "Sistem Informasi Operasional Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
@@ -42,7 +42,7 @@
         "description": "Sistem Informasi Lambangja Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
     },
     {
-        "image": "dist/img/portfolio/sisfopersal.jpeg",
+        "image": "dist/img/portfolio/sisfopersal.webp",
         "title": "SISFOPERSAL",
         "link": "https://sisfopersal.datacakra.com/",
         "description": "Sistem Informasi Personel Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
@@ -54,19 +54,19 @@
         "description": "Rapidsense AI adalah web-aplikasi product dari PT. Datacakra Solusi Jaganata yang berfungsi untuk memonitoring dan menganalisa data berdasarkan sensor secara real-time, seperti Machine Monitoring, Energy Meter, Waste Monitoring, Employee Tracker, Yard Management, PPIC, Envirobox, Water Level, Smartpole, Early Warning System (EWS) Flood & Forest Fire, Water Quality, Inventory Tracking, Fleet Management, dll. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
     },
     {
-        "image": "dist/img/portfolio/logify-klinik.jpeg",
+        "image": "dist/img/portfolio/logify-klinik.webp",
         "title": "Logify Klinik",
         "link": "https://drive.google.com/drive/folders/1RbWdAxN_0g820zHPRPsECjNdSf1e1QOT?usp=sharing",
         "description": "Logify Klinik adalah web-aplikasi resmi solusi manajemen klinik yang dirancang untuk mempermudah proses administrasi, pendaftaran, dan pengelolaan pasien di klinik. Aplikasi ini memungkinkan klinik untuk mengelola jadwal dokter, pendaftaran pasien, serta pencatatan riwayat medis secara terintegrasi, sehingga memastikan proses pelayanan kesehatan menjadi lebih efisien dan terstruktur. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
-        "image": "dist/img/portfolio/web-drowsiness-detection.jpeg",
+        "image": "dist/img/portfolio/web-drowsiness-detection.webp",
         "title": "Implementation Drowsiness Detection",
         "link": "https://www.youtube.com/watch?v=rALUWjZ6j8I",
         "description": "Project ini adalah pengembangan dari tugas akhir saya yang berfungsi untuk mendeteksi tingkat kantuk pada pengemudi dan diterapkan pada web-aplikasi, dimana apabila pengemudi terdeteksi sedang mengantuk maka akan muncul notifikasi untuk memberitahukan pengemudi agar berhenti sejenak dan suara alarm. Aplikasi ini dibuat menggunakan React.JS"
     },
     {
-        "image": "dist/img/portfolio/drowsiness-detection.jpeg",
+        "image": "dist/img/portfolio/drowsiness-detection.webp",
         "title": "Drowsiness Detection",
         "link": "https://www.youtube.com/watch?v=PKPSfA-mgjc",
         "description": "Drowsiness Detection adalah project tugas akhir saya yang berfungsi untuk mendeteksi tingkat kantuk pada pengemudi. Aplikasi ini dibuat menggunakan Python dengan library OpenCV dan YOLOv4."
@@ -78,7 +78,7 @@
         "description": "MPA Pelindo adalah web-aplikasi resmi Pelindo Solusi Logistik yang dirancang untuk manajemen pemeliharaan aset di pelabuhan. Aplikasi ini memungkinkan perusahaan untuk mengelola inventarisasi aset, perencanaan pemeliharaan, serta pelaporan kondisi aset secara terintegrasi, sehingga memastikan aset perusahaan selalu dalam kondisi yang optimal. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
     },
     {
-        "image": "dist/img/portfolio/logbase-pelindo.jpeg",
+        "image": "dist/img/portfolio/logbase-pelindo.webp",
         "title": "Logbase Pelindo",
         "link": "https://logbase.co.id/",
         "description": "Logbase merupakan marketplace yang dikembangkan oleh PT Pelindo Solusi Logistik yang menyediakan fasilitas logistik, infrastruktur, peralatan serta kendaraan berat dan beberapa fasilitas lainnya. Logbase selalu berkomitmen untuk memberikan pelayanan terbaik, aman dan terpercaya demi perkembangan bisnis anda. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
@@ -96,31 +96,31 @@
         "description": "Pipapower adalah web-aplikasi resmi PT Avia Avian Industri Pipa sebagai produsen pipa dan fitting uPVC (Unplasticized Poly Vinyl Chloride) diproduksi dengan mesin berteknologi modern dengan menggunakan bahan baku yang berkualitas tinggi untuk menghasilkan produk unggulan yang presisi dan bebas timbal (Lead Free). (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
-        "image": "dist/img/portfolio/csr-tracking.jpeg",
+        "image": "dist/img/portfolio/csr-tracking.webp",
         "title": "CSR Tracking",
         "link": "https://csr-tracking.avianbrands.com/",
         "description": "CSR Tracking adalah web-aplikasi resmi manajemen program Corporate Social Responsibility (CSR) Avian Brands yang dirancang untuk mempermudah perusahaan dalam melakukan perencanaan, pelaksanaan, dan evaluasi program CSR. Aplikasi ini memungkinkan perusahaan untuk mengelola program CSR secara terintegrasi, mulai dari perencanaan, pengajuan proposal, hingga pelaporan hasil program. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
-        "image": "dist/img/portfolio/csr-metabase.jpeg",
+        "image": "dist/img/portfolio/csr-metabase.webp",
         "title": "CSR Metabase",
         "link": "https://csr-mb.avianbrands.com/",
         "description": "CSR Metabase adalah web-aplikasi dashboard yang dirancang untuk mengolah data program Corporate Social Responsibility (CSR) Avian Brands. Aplikasi ini memungkinkan perusahaan untuk melihat data program CSR secara real-time, mulai dari jumlah program yang telah dilaksanakan, jumlah dana yang telah dikeluarkan, hingga dampak yang telah dihasilkan. Aplikasi ini berfungsi sebagai embedded image yang diambil dari PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
-        "image": "dist/img/portfolio/avian-directus.jpeg",
+        "image": "dist/img/portfolio/avian-directus.webp",
         "title": "Avian Directus",
         "link": "https://directus.avianbrands.com",
         "description": "Avian Directus adalah web-aplikasi resmi Avian Brands yang berfungsi untuk memanajemen keseluruhan sistem pada perusahaan dimana akses yang diberikan hanya untuk direksi-direksi saja. Web-aplikasi ini dirancang untuk memudahkan direksi dalam melihat laporan-laporan yang dihasilkan oleh perusahaan. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
-        "image": "dist/img/portfolio/avian-karir.jpeg",
+        "image": "dist/img/portfolio/avian-karir.webp",
         "title": "Avian Karir",
         "link": "https://karir.avianbrands.com/",
         "description": "Avian Karir adalah web-aplikasi resmi Avian Brands yang berfungsi untuk menampilkan lowongan pekerjaan yang tersedia di perusahaan. Web-aplikasi ini dirancang untuk memudahkan pencari kerja dalam mencari informasi mengenai lowongan pekerjaan yang sesuai dengan minat dan kualifikasi mereka. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
     },
     {
-        "image": "dist/img/portfolio/avian-web.jpeg",
+        "image": "dist/img/portfolio/avian-web.webp",
         "title": "Avian Web",
         "link": "https://avianbrands.com/",
         "description": "Avian Web adalah web-aplikasi resmi Avian Brands, sebuah perusahaan yang bergerak di bidang produksi dan distribusi produk-produk cat. Web-aplikasi ini dirancang untuk memberikan informasi mengenai produk-produk yang dijual, serta memudahkan konsumen dalam melakukan pembelian secara online, selain web-aplikasi aplikasi ini juga tersedia dalam versi mobile Android maupun IOS. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL. (Saya melakukan maintenance dan penambahan fitur karena sudah existing sebelum saya bergabung)"
@@ -154,7 +154,7 @@
         "description": "Project ini merupakan project yang saya bangun bersama teman saya, yaitu tentang monitoring seluruh kegiatan sekolah dari absensi guru, siswa, pegawai sekolah dan lain sebagainya. Project ini memiliki banyak fitur didalamnya. Disini pengembangan web-aplikasi menggunaan framework laravel dan untuk mobile menggunakan flutter."
     },
     {
-        "image": "dist/img/portfolio/bem-u-unesa-2022.jpeg",
+        "image": "dist/img/portfolio/bem-u-unesa-2022.webp",
         "title": "BEM UNESA 2022",
         "link": "https://bem.unesa.ac.id/",
         "description": "BEM UNESA 2022 adalah web-aplikasi resmi Badan Eksekutif Mahasiswa Universitas Negeri Surabaya periode 2022 kabinet ruang karya, project ini saya buat bersama team menggunakan Laravel dan backend MySQL."
