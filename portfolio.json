@@ -1,6 +1,54 @@
 {
   "projects": [
     {
+        "image": "dist/img/portfolio/kpp-hauling-road.jpeg",
+        "title": "KPP Hauling Road",
+        "link": "https://kpp-dev.datacakra.com/",
+        "description": "KPP Hauling Road adalah web-aplikasi PT. Kalimatan Prima Persada yang berfungsi menghitung agregat lepas, drainase buruk, lendutan permukaan, lubang permukaan, permukaan bergelombang, potongan melintang, pencemaran debu berdasarkan nilai deteksi URCI yang dipasang pada kendaraan. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
+        "image": "dist/img/portfolio/sisfopimpinan.jpeg",
+        "title": "SISFO PIMPINAN",
+        "link": "https://sisfopimpinan.datacakra.com/",
+        "description": "Dashboard Pimpinan Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
+        "image": "dist/img/portfolio/sisfotual.jpeg",
+        "title": "SISFOTUAL",
+        "link": "https://sisfotual.datacakra.com/",
+        "description": "Sistem Informasi Tata Usaha Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
+        "image": "dist/img/portfolio/sisfoopsal.jpeg",
+        "title": "SISFOOPSAL",
+        "link": "https://sisfoopsal.datacakra.com/",
+        "description": "Sistem Informasi Operasional Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
+        "image": "dist/img/portfolio/sisfolog.jpeg",
+        "title": "SISFOLOG",
+        "link": "https://sisfologal.datacakra.com/",
+        "description": "Sistem Informasi Logistik Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
+        "image": "dist/img/portfolio/sisfok3.jpeg",
+        "title": "SISFOK3",
+        "link": "https://sisfok3al.datacakra.com/",
+        "description": "Sistem Informasi Lambangja Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
+        "image": "dist/img/portfolio/sisfopersal.jpeg",
+        "title": "SISFOPERSAL",
+        "link": "https://sisfopersal.datacakra.com/",
+        "description": "Sistem Informasi Personel Puspenerbal adalah web-aplikasi resmi yang bersifat rahasia dan hanya dapat diakses oleh pihak tertentu. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
+        "image": "dist/img/portfolio/rapidsense-ai.jpeg",
+        "title": "Rapidsense AI",
+        "link": "http://rapidsense-ai-dev.datacakra.com/",
+        "description": "Rapidsense AI adalah web-aplikasi product dari PT. Datacakra Solusi Jaganata yang berfungsi untuk memonitoring dan menganalisa data berdasarkan sensor secara real-time, seperti Machine Monitoring, Energy Meter, Waste Monitoring, Employee Tracker, Yard Management, PPIC, Envirobox, Water Level, Smartpole, Early Warning System (EWS) Flood & Forest Fire, Water Quality, Inventory Tracking, Fleet Management, dll. Aplikasi ini dibuat menggunakan React.JS dan terkoneksi dengan database PostgreSQL."
+    },
+    {
         "image": "dist/img/portfolio/logify-klinik.jpeg",
         "title": "Logify Klinik",
         "link": "https://drive.google.com/drive/folders/1RbWdAxN_0g820zHPRPsECjNdSf1e1QOT?usp=sharing",
